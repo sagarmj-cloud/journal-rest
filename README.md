@@ -1,2 +1,2 @@
 # journal-rest
-microservice to log journal entris
+microservice to log journal entries
